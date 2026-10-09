@@ -1,0 +1,6 @@
+{
+  "name": "SCRATCH AI – NGƯỜI BẠN ĐỒNG HÀNH LẬP TRÌNH",
+  "description": "Ứng dụng giáo dục Scratch trực quan dành cho học sinh lớp 4 và lớp 5, tích hợp gia sư AI gợi mở tư duy thuật toán và thực hành tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
